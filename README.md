@@ -1,5 +1,9 @@
 # Entrega pràctica de Matemàtica Discreta
 
+
+Testar
+
+
 Trobareu totes les instruccions a [`Entrega.java`](Entrega.java).
 
 Si no heu utilitzat mai git, aquesta pot ser una bona oportunitat per
